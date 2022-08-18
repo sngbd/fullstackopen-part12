@@ -1,0 +1,1 @@
+nvim /usr/src/app/index.js
